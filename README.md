@@ -20,9 +20,9 @@ Order
 ----------------------------------------------
 
 Sample Input:
-5
-Spain England France Italy Germany
-3
-Spain England 3 0
-England France 1 1
-Spain England 0 2
+5 <br>
+Spain England France Italy Germany<br>
+3<br>
+Spain England 3 0<br>
+England France 1 1<br>
+Spain England 0 2<br>
